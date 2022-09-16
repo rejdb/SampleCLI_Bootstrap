@@ -1,0 +1,19 @@
+{
+  "name": "growstore",
+  "version": "1.0.0",
+  "description": "GrowAPPS Technologies",
+  "main": "install.js",
+  "preferGlobal": false,
+  "bin": "./bin/growstore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reggie Dabu",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^8.0.0",
+    "configstore": "^3.1.5",
+    "inquirer": "^8.1.1"
+  }
+}
